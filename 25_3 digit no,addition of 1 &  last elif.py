@@ -1,4 +1,4 @@
-# input  a number between 0 to 7 corresponding days of weeks
+# input  a number between check if it is 3 digit number if yes, perform addition of first and last digit
 # @uzair221b
 import time
 n = int(input('Enter a number:'))
